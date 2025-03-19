@@ -31,10 +31,12 @@ paragraph default :1.6
 #333
 #ddd
 
+-grenn:#51cf66
 --- 05 SHADOWS
 
 --- 06 BORDER_RADIUS 
  -Default-9px
+  -Medium-11px
 
 --- 07 WHITESPACE
 
@@ -60,6 +62,9 @@ body {
   line-height: 1;
   font-weight: 400;
   color: #555;
+}
+strong {
+  font-weight: 500;
 }
 /* #endregion */
 /************************/

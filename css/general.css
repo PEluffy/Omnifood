@@ -139,7 +139,7 @@ strong {
   font-size: 2rem;
   padding: 1.6rem 3.2rem;
   border-radius: 9px;
-  transition: all 1s;
+  transition: all 0.3s;
   font-weight: 600;
   display: inline-block;
 }
@@ -149,7 +149,7 @@ strong {
   color: #fff;
 }
 
-.btn--outline,
+.btn--outline:link,
 .btn--outline:visited {
   background-color: #fff;
   color: #555;
